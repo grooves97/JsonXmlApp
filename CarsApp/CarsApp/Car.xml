@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Car>
+  <Brand>LandRover</Brand>
+  <Model>RangeRover</Model>
+  <TankCapacity>5.5</TankCapacity>
+  <Body>SUV</Body>
+  <Country>Great Britain</Country>
+  <ManufacYear>2019</ManufacYear>
+</Car>
